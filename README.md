@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate with a statup.
+- ❤  You can know more by https://g.dev/kailashsur
 - 📫 You can reach me by kailashsur@kailashsur.in
 
 <!---
